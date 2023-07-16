@@ -1,0 +1,148 @@
+===YEAR:  2010 ====
+Player: Santonio Holmes YD:746 TD:6 GS:10
+Player: Brian Hartline YD:615 TD:1 GS:11
+Player: Michael Jenkins YD:505 TD:2 GS:9
+Player: Brian Robiskie YD:310 TD:3 GS:11
+Player: Joey Galloway YD:173 TD:0 GS:4
+Player: Ted Ginn Jr. YD:163 TD:1 GS:0
+Player: Anthony Gonzalez YD:67 TD:0 GS:0
+Print stats
+{'Yds': 2579, 'TD': 13, 'GS': 45}
+
+===YEAR:  2011 ====
+Player: Santonio Holmes YD:654 TD:8 GS:16
+Player: Brian Hartline YD:549 TD:1 GS:10
+Player: Michael Jenkins YD:466 TD:3 GS:7
+Player: Dane Sanzenbacher YD:276 TD:3 GS:1
+Player: Ted Ginn Jr. YD:220 TD:0 GS:3
+Player: Brian Robiskie YD:25 TD:0 GS:2
+Print stats
+{'Yds': 2190, 'TD': 15, 'GS': 39}
+
+===YEAR:  2012 ====
+Player: Brian Hartline YD:1083 TD:1 GS:15
+Player: Michael Jenkins YD:449 TD:2 GS:8
+Player: Santonio Holmes YD:272 TD:1 GS:4
+Player: DeVier Posey YD:87 TD:0 GS:0
+Player: Brian Robiskie YD:44 TD:1 GS:0
+Player: Dane Sanzenbacher YD:7 TD:0 GS:2
+Player: Ted Ginn Jr. YD:1 TD:0 GS:0
+Print stats
+{'Yds': 1943, 'TD': 5, 'GS': 29}
+
+===YEAR:  2013 ====
+Player: Brian Hartline YD:1016 TD:4 GS:15
+Player: Ted Ginn Jr. YD:556 TD:5 GS:2
+Player: Santonio Holmes YD:456 TD:1 GS:11
+Player: DeVier Posey YD:155 TD:0 GS:0
+Player: Dane Sanzenbacher YD:61 TD:0 GS:1
+Print stats
+{'Yds': 2244, 'TD': 10, 'GS': 29}
+
+===YEAR:  2014 ====
+Player: Brian Hartline YD:474 TD:2 GS:16
+Player: Corey Brown YD:296 TD:2 GS:3
+Player: Ted Ginn Jr. YD:190 TD:0 GS:0
+Player: Dane Sanzenbacher YD:105 TD:0 GS:1
+Player: Santonio Holmes YD:67 TD:0 GS:2
+Player: DeVier Posey YD:30 TD:0 GS:1
+Print stats
+{'Yds': 1162, 'TD': 4, 'GS': 23}
+
+===YEAR:  2015 ====
+Player: Ted Ginn Jr. YD:739 TD:10 GS:13
+Player: Brian Hartline YD:523 TD:2 GS:4
+Player: Corey Brown YD:447 TD:4 GS:11
+Player: Devin Smith YD:115 TD:1 GS:3
+Print stats
+{'Yds': 1824, 'TD': 17, 'GS': 31}
+
+===YEAR:  2016 ====
+Player: Michael Thomas YD:1137 TD:9 GS:12
+Player: Ted Ginn Jr. YD:752 TD:4 GS:8
+Player: Corey Brown YD:276 TD:1 GS:8
+Player: Jalin Marshall YD:162 TD:2 GS:1
+Player: Braxton Miller YD:99 TD:1 GS:6
+Player: Devin Smith YD:20 TD:0 GS:0
+Print stats
+{'Yds': 2446, 'TD': 17, 'GS': 35}
+
+===YEAR:  2017 ====
+Player: Michael Thomas* YD:1245 TD:5 GS:14
+Player: Ted Ginn Jr. YD:787 TD:4 GS:10
+Player: Braxton Miller YD:162 TD:1 GS:3
+Player: Curtis Samuel YD:115 TD:0 GS:4
+Player: Noah Brown YD:33 TD:0 GS:1
+Print stats
+{'Yds': 2342, 'TD': 10, 'GS': 32}
+
+===YEAR:  2018 ====
+Player: Michael Thomas*+ YD:1405 TD:9 GS:16
+Player: Curtis Samuel YD:494 TD:5 GS:8
+Player: Ted Ginn Jr. YD:209 TD:2 GS:3
+Player: Noah Brown YD:54 TD:0 GS:2
+Print stats
+{'Yds': 2162, 'TD': 16, 'GS': 29}
+
+===YEAR:  2019 ====
+Player: Michael Thomas*+ YD:1725 TD:9 GS:15
+Player: Terry McLaurin YD:919 TD:7 GS:14
+Player: Curtis Samuel YD:627 TD:6 GS:15
+Player: Ted Ginn Jr. YD:421 TD:2 GS:9
+Player: Parris Campbell YD:127 TD:1 GS:3
+Player: Devin Smith YD:113 TD:1 GS:2
+Print stats
+{'Yds': 3932, 'TD': 26, 'GS': 58}
+
+Total  YRs :  22824
+Total  TDs :  133
+Total  GS :  350
+
+2015
+Total  YRs :  12706
+Total  TDs :  86
+Total  GS :  185
+
+2020
+Yds    2006
+TD        6
+GS       24
+
+2015-2020
+Total Yds: 11281
+Total TD: 68
+Total GS: 162
+
+
+    Pos             Player  Yrs          2                          NFL Draft (tm/rnd/yr)
+1    WR    Parris Campbell    1  2019-2019    Indianapolis Colts / 2nd / 59th pick / 2019
+7    WR     Terry McLaurin    1  2019-2019   Washington Redskins / 3rd / 76th pick / 2019
+23   WR      Curtis Samuel    3  2017-2019     Carolina Panthers / 2nd / 40th pick / 2017
+24   WR         Noah Brown    2  2017-2018       Dallas Cowboys / 7th / 239th pick / 2017
+34   WR     Michael Thomas    4  2016-2019    New Orleans Saints / 2nd / 47th pick / 2016
+38   WR     Braxton Miller    2  2016-2017        Houston Texans / 3rd / 85th pick / 2016
+41   WR     Jalin Marshall    1  2016-2016                                            NaN
+42   WR        Devin Smith    3  2015-2019         New York Jets / 2nd / 37th pick / 2015
+46   WR       Evan Spencer    1  2015-2015  Washington Redskins / 6th / 187th pick / 2015
+53   WR        Corey Brown    3  2014-2016                                            NaN
+65   WR       DeVier Posey    3  2012-2014        Houston Texans / 3rd / 68th pick / 2012
+71   WR  Dane Sanzenbacher    4  2011-2014                                            NaN
+86   WR     Brian Hartline    7  2009-2015       Miami Dolphins / 4th / 108th pick / 2009
+87   WR     Brian Robiskie    5  2009-2013      Cleveland Browns / 2nd / 36th pick / 2009
+93   WR       Ted Ginn Jr.   13  2007-2019         Miami Dolphins / 1st / 9th pick / 2007
+95   WR   Anthony Gonzalez    5  2007-2011    Indianapolis Colts / 1st / 32nd pick / 2007
+103  WR    Santonio Holmes    9  2006-2014   Pittsburgh Steelers / 1st / 25th pick / 2006
+122  WR    Michael Jenkins    9  2004-2012       Atlanta Falcons / 1st / 29th pick / 2004
+182  WR      Joey Galloway   16  1995-2010       Seattle Seahawks / 1st / 8th pick / 1995
+
+Wesley Parker Tony Floyd
+In 2020:
+LSU: 1938 Yds 9 TDs
+Bama: 3468 Yds 17 TDs
+Clem: 3235 Yds 19 TDs
+OSU: 2006 Yds 6 TDs
+From 2015 - 2020
+LSU: 18,933 Yds 112 TDs
+Bama: 18,876 Yds 101 TDs
+Clem: 21,357 Yds 139 TDs
+OSU: 11,281 Yds 68 TDs

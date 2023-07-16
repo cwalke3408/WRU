@@ -1,0 +1,136 @@
+===YEAR:  2010 ====
+Player: Dwayne Bowe* YD:1162 TD:15 GS:16
+Player: Brandon LaFell YD:468 TD:1 GS:2
+Player: Devery Henderson YD:464 TD:1 GS:11
+Player: Early Doucet YD:291 TD:1 GS:5
+Player: Craig Davis YD:259 TD:1 GS:1
+Player: Michael Clayton YD:19 TD:0 GS:0
+Print stats
+{'Yds': 2663, 'TD': 19, 'GS': 35}
+
+===YEAR:  2011 ====
+Player: Dwayne Bowe YD:1159 TD:5 GS:14
+Player: Early Doucet YD:689 TD:5 GS:6
+Player: Brandon LaFell YD:613 TD:3 GS:6
+Player: Devery Henderson YD:503 TD:2 GS:13
+Print stats
+{'Yds': 2964, 'TD': 15, 'GS': 39}
+
+===YEAR:  2012 ====
+Player: Dwayne Bowe YD:801 TD:3 GS:12
+Player: Brandon LaFell YD:677 TD:4 GS:12
+Player: Devery Henderson YD:316 TD:1 GS:9
+Player: Rueben Randle YD:298 TD:3 GS:1
+Player: Early Doucet YD:207 TD:0 GS:3
+Player: Trindon Holliday YD:17 TD:0 GS:0
+Print stats
+{'Yds': 2316, 'TD': 11, 'GS': 37}
+
+===YEAR:  2013 ====
+Player: Dwayne Bowe YD:673 TD:5 GS:15
+Player: Brandon LaFell YD:627 TD:5 GS:16
+Player: Rueben Randle YD:611 TD:6 GS:3
+Print stats
+{'Yds': 1911, 'TD': 16, 'GS': 34}
+
+===YEAR:  2014 ====
+Player: Odell Beckham Jr.* YD:1305 TD:12 GS:11
+Player: Brandon LaFell YD:953 TD:7 GS:13
+Player: Rueben Randle YD:938 TD:3 GS:13
+Player: Jarvis Landry YD:758 TD:5 GS:11
+Player: Dwayne Bowe YD:754 TD:0 GS:15
+Player: James Wright YD:91 TD:0 GS:0
+Player: Russell Shepard YD:63 TD:0 GS:0
+Print stats
+{'Yds': 4862, 'TD': 27, 'GS': 63}
+
+===YEAR:  2015 ====
+Player: Odell Beckham Jr.* YD:1450 TD:13 GS:15
+Player: Jarvis Landry* YD:1157 TD:4 GS:14
+Player: Rueben Randle YD:797 TD:8 GS:16
+Player: Brandon LaFell YD:515 TD:0 GS:7
+Player: Dwayne Bowe YD:53 TD:0 GS:0
+Player: Russell Shepard YD:28 TD:1 GS:2
+Print stats
+{'Yds': 4000, 'TD': 26, 'GS': 54}
+
+===YEAR:  2016 ====
+Player: Odell Beckham Jr.* YD:1367 TD:10 GS:16
+Player: Jarvis Landry* YD:1136 TD:4 GS:16
+Player: Brandon LaFell YD:862 TD:6 GS:14
+Player: Russell Shepard YD:341 TD:2 GS:4
+Player: James Wright YD:106 TD:0 GS:2
+Print stats
+{'Yds': 3812, 'TD': 22, 'GS': 52}
+
+===YEAR:  2017 ====
+Player: Jarvis Landry* YD:987 TD:9 GS:16
+Player: Brandon LaFell YD:548 TD:3 GS:15
+Player: Odell Beckham Jr. YD:302 TD:3 GS:2
+Player: Russell Shepard YD:202 TD:1 GS:3
+Print stats
+{'Yds': 2039, 'TD': 16, 'GS': 36}
+
+===YEAR:  2018 ====
+Player: Odell Beckham Jr. YD:1052 TD:6 GS:12
+Player: Jarvis Landry* YD:976 TD:4 GS:14
+Player: Russell Shepard YD:188 TD:2 GS:0
+Player: DJ Chark YD:174 TD:0 GS:0
+Player: Brandon LaFell YD:135 TD:2 GS:5
+Player: Russell Gage YD:63 TD:0 GS:0
+Print stats
+{'Yds': 2588, 'TD': 14, 'GS': 31}
+
+===YEAR:  2019 ====
+Player: Jarvis Landry* YD:1174 TD:6 GS:16
+Player: Odell Beckham Jr. YD:1035 TD:4 GS:15
+Player: DJ Chark* YD:1008 TD:8 GS:14
+Player: Russell Gage YD:446 TD:1 GS:4
+Player: Russell Shepard YD:25 TD:0 GS:0
+Print stats
+{'Yds': 3688, 'TD': 19, 'GS': 49}
+
+===YEAR:  2020 ====
+Yds    1938
+TD        9
+GS       30
+dtype: int64
+                Player  Yds  TD  GS
+34       Jarvis Landry  614   1  10
+37        Russell Gage  471   1   4
+47            DJ Chark  534   4   9
+138  Odell Beckham Jr.  319   3   7
+
+2020
+Yds    2856
+TD       15
+GS       39
+
+2015-2020
+Total Yds: 18933
+Total TD: 112
+Total GS: 261
+
+
+
+
+
+
+
+    Pos             Player  Yrs          2                          NFL Draft (tm/rnd/yr)
+4    WR           DJ Chark    2  2018-2019  Jacksonville Jaguars / 2nd / 61st pick / 2018
+6    WR       Russell Gage    2  2018-2019      Atlanta Falcons / 6th / 194th pick / 2018
+12   WR      Malachi Dupre    1  2018-2018    Green Bay Packers / 7th / 247th pick / 2017
+37   WR  Odell Beckham Jr.    6  2014-2019       New York Giants / 1st / 12th pick / 2014
+38   WR      Jarvis Landry    6  2014-2019        Miami Dolphins / 2nd / 63rd pick / 2014
+45   WR       James Wright    2  2014-2016   Cincinnati Bengals / 7th / 239th pick / 2014
+50   WR       Kadron Boone    1  2014-2014                                            NaN
+56   WR    Russell Shepard    7  2013-2019                                            NaN
+64   WR      Rueben Randle    4  2012-2015       New York Giants / 2nd / 63rd pick / 2012
+73   WR   Trindon Holliday    4  2011-2014       Houston Texans / 6th / 197th pick / 2010
+78   WR     Brandon LaFell    9  2010-2018     Carolina Panthers / 3rd / 78th pick / 2010
+92   WR       Early Doucet    5  2008-2012     Arizona Cardinals / 3rd / 81st pick / 2008
+97   WR        Dwayne Bowe    9  2007-2015    Kansas City Chiefs / 1st / 23rd pick / 2007
+99   WR        Craig Davis    4  2007-2010    San Diego Chargers / 1st / 30th pick / 2007
+120  WR   Devery Henderson    9  2004-2012    New Orleans Saints / 2nd / 50th pick / 2004
+121  WR    Michael Clayton    8  2004-2011  Tampa Bay Buccaneers / 1st / 15th pick / 2004

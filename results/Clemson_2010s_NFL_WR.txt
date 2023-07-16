@@ -1,0 +1,130 @@
+===YEAR:  2010 ====
+Player: Jacoby Ford YD:470 TD:2 GS:9
+Player: Chansi Stuckey YD:346 TD:0 GS:5
+Print stats
+{'Yds': 816, 'TD': 2, 'GS': 14}
+
+===YEAR:  2011 ====
+Player: Jacoby Ford YD:279 TD:1 GS:3
+Player: Chansi Stuckey YD:39 TD:0 GS:0
+Print stats
+{'Yds': 318, 'TD': 1, 'GS': 3}
+
+===YEAR:  2012 ====
+Print stats
+{'Yds': 0, 'TD': 0, 'GS': 0}
+
+===YEAR:  2013 ====
+Player: DeAndre Hopkins YD:802 TD:2 GS:16
+Player: Jaron Brown YD:140 TD:1 GS:0
+Player: Jacoby Ford YD:99 TD:0 GS:1
+Print stats
+{'Yds': 1041, 'TD': 3, 'GS': 17}
+
+===YEAR:  2014 ====
+Player: DeAndre Hopkins YD:1210 TD:6 GS:16
+Player: Sammy Watkins YD:982 TD:6 GS:16
+Player: Martavis Bryant YD:549 TD:8 GS:3
+Player: Jaron Brown YD:229 TD:2 GS:2
+Print stats
+{'Yds': 2970, 'TD': 22, 'GS': 37}
+
+===YEAR:  2015 ====
+Player: DeAndre Hopkins* YD:1521 TD:11 GS:16
+Player: Sammy Watkins YD:1047 TD:9 GS:13
+Player: Martavis Bryant YD:765 TD:6 GS:5
+Player: Adam Humphries YD:260 TD:1 GS:0
+Player: Jaron Brown YD:144 TD:1 GS:0
+Print stats
+{'Yds': 3737, 'TD': 28, 'GS': 34}
+
+===YEAR:  2016 ====
+Player: DeAndre Hopkins YD:954 TD:4 GS:16
+Player: Adam Humphries YD:622 TD:2 GS:4
+Player: Sammy Watkins YD:430 TD:2 GS:8
+Player: Jaron Brown YD:187 TD:1 GS:2
+Player: Charone Peake YD:186 TD:0 GS:1
+Print stats
+{'Yds': 2379, 'TD': 9, 'GS': 31}
+
+===YEAR:  2017 ====
+Player: DeAndre Hopkins*+ YD:1378 TD:13 GS:15
+Player: Adam Humphries YD:631 TD:1 GS:3
+Player: Martavis Bryant YD:603 TD:3 GS:8
+Player: Sammy Watkins YD:593 TD:8 GS:14
+Player: Jaron Brown YD:477 TD:4 GS:8
+Player: Mike Williams YD:95 TD:0 GS:1
+Player: Charone Peake YD:3 TD:0 GS:0
+Print stats
+{'Yds': 3780, 'TD': 29, 'GS': 49}
+
+===YEAR:  2018 ====
+Player: DeAndre Hopkins*+ YD:1572 TD:11 GS:16
+Player: Adam Humphries YD:816 TD:5 GS:10
+Player: Mike Williams YD:664 TD:10 GS:5
+Player: Sammy Watkins YD:519 TD:3 GS:9
+Player: Martavis Bryant YD:266 TD:0 GS:2
+Player: Jaron Brown YD:166 TD:5 GS:2
+Player: Ray-Ray McCloud YD:36 TD:0 GS:1
+Player: Charone Peake YD:25 TD:0 GS:0
+Print stats
+{'Yds': 4064, 'TD': 34, 'GS': 45}
+
+===YEAR:  2019 ====
+Player: DeAndre Hopkins*+ YD:1165 TD:7 GS:15
+Player: Sammy Watkins YD:673 TD:3 GS:13
+Player: Hunter Renfrow YD:605 TD:4 GS:4
+Player: Mike Williams YD:1001 TD:2 GS:15
+Player: Adam Humphries YD:374 TD:2 GS:3
+Player: Jaron Brown YD:220 TD:2 GS:4
+Player: Deon Cain YD:124 TD:0 GS:6
+Print stats
+{'Yds': 4162, 'TD': 20, 'GS': 60}
+
+===YEAR:  2020 ====
+               Player   Yds  TD  GS
+2    DeAndre Hopkins*  1407   6  16
+33        Tee Higgins   908   6  14
+59     Hunter Renfrow   656   2   6
+84      Mike Williams   756   5  11
+117     Sammy Watkins   421   2   9
+186    Adam Humphries   228   2   1
+204   Ray-Ray McCloud    77   0   2
+
+Total Yds: 4453
+Total TD: 23
+Total GS: 59
+
+2016-2020
+Total Yds: 18838
+Total TD: 115
+Total GS: 244
+
+
+
+2020:
+Yds    3235
+TD       19
+GS       39
+
+2015-2020
+Total Yds: 21357
+Total TD: 139
+Total GS: 258
+
+
+2015:
+
+   Pos           Player  Yrs          2                          NFL Draft (tm/rnd/yr)
+1   WR        Deon Cain    1  2019-2019   Indianapolis Colts / 6th / 185th pick / 2018
+6   WR   Hunter Renfrow    1  2019-2019      Oakland Raiders / 5th / 149th pick / 2019
+8   WR  Ray-Ray McCloud    2  2018-2019        Buffalo Bills / 6th / 187th pick / 2018
+15  WR    Mike Williams    3  2017-2019   Los Angeles Chargers / 1st / 7th pick / 2017
+23  WR    Charone Peake    3  2016-2018        New York Jets / 7th / 241st pick / 2016
+28  WR   Adam Humphries    5  2015-2019                                            NaN
+35  WR    Sammy Watkins    6  2014-2019          Buffalo Bills / 1st / 4th pick / 2014
+36  WR  Martavis Bryant    4  2014-2018  Pittsburgh Steelers / 4th / 118th pick / 2014
+40  WR      Jaron Brown    7  2013-2019                                            NaN
+41  WR  DeAndre Hopkins    7  2013-2019        Houston Texans / 1st / 27th pick / 2013
+63  WR      Jacoby Ford    4  2010-2013      Oakland Raiders / 4th / 108th pick / 2010
+72  WR   Chansi Stuckey    4  2008-2011        New York Jets / 7th / 235th pick / 2007

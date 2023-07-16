@@ -1,0 +1,98 @@
+===YEAR:  2010 ====
+Print stats
+{'Yds': 0, 'TD': 0, 'GS': 0}
+
+===YEAR:  2011 ====
+Player: Julio Jones YD:959 TD:8 GS:13
+Print stats
+{'Yds': 959, 'TD': 8, 'GS': 13}
+
+===YEAR:  2012 ====
+Player: Julio Jones* YD:1198 TD:10 GS:15
+Print stats
+{'Yds': 1198, 'TD': 10, 'GS': 15}
+
+===YEAR:  2013 ====
+Player: Julio Jones YD:580 TD:2 GS:5
+Print stats
+{'Yds': 580, 'TD': 2, 'GS': 5}
+
+===YEAR:  2014 ====
+Player: Julio Jones* YD:1593 TD:6 GS:15
+Player: Kevin Norwood YD:102 TD:0 GS:2
+Print stats
+{'Yds': 1695, 'TD': 6, 'GS': 17}
+
+===YEAR:  2015 ====
+Player: Julio Jones*+ YD:1871 TD:8 GS:16
+Player: Amari Cooper* YD:1070 TD:6 GS:15
+Player: DeAndrew White YD:18 TD:0 GS:0
+Print stats
+{'Yds': 2959, 'TD': 14, 'GS': 31}
+
+===YEAR:  2016 ====
+Player: Julio Jones*+ YD:1409 TD:6 GS:14
+Player: Amari Cooper* YD:1153 TD:5 GS:14
+Print stats
+{'Yds': 2562, 'TD': 11, 'GS': 28}
+
+===YEAR:  2017 ====
+Player: Julio Jones* YD:1444 TD:3 GS:16
+Player: Amari Cooper YD:680 TD:7 GS:12
+Player: ArDarius Stewart YD:82 TD:0 GS:2
+Player: DeAndrew White YD:24 TD:0 GS:1
+Print stats
+{'Yds': 2230, 'TD': 10, 'GS': 31}
+
+===YEAR:  2018 ====
+Player: Julio Jones* YD:1677 TD:8 GS:16
+Player: Amari Cooper* YD:1005 TD:7 GS:15
+Player: Calvin Ridley YD:821 TD:10 GS:5
+Player: Robert Foster YD:541 TD:3 GS:3
+Player: Gehrig Dieter YD:22 TD:0 GS:0
+Print stats
+{'Yds': 4066, 'TD': 28, 'GS': 39}
+
+===YEAR:  2019 ====
+Player: Julio Jones* YD:1394 TD:6 GS:15
+Player: Amari Cooper* YD:1189 TD:8 GS:16
+Player: Calvin Ridley YD:866 TD:7 GS:10
+Player: DeAndrew White YD:51 TD:0 GS:0
+Player: Robert Foster YD:64 TD:0 GS:2
+Player: Cam Sims YD:27 TD:0 GS:1
+Print stats
+{'Yds': 3591, 'TD': 21, 'GS': 44}
+
+===YEAR:  2020 ====
+Yds    2567
+TD       14
+GS       33
+dtype: int64
+            Player  Yds  TD  GS
+7     Amari Cooper  848   3  10
+20   Calvin Ridley  797   7  10
+39     Julio Jones  677   3   8
+221       Cam Sims  245   1   5
+
+2020
+Yds    3468
+TD       17
+GS       51
+
+2015-2020
+Total Yds: 18876
+Total TD: 101
+Total GS: 224
+
+
+   Pos            Player  Yrs          2                       NFL Draft (tm/rnd/yr)
+15  WR     Gehrig Dieter    2  2018-2019                                         NaN
+18  WR     Robert Foster    2  2018-2019                                         NaN
+23  WR     Calvin Ridley    2  2018-2019    Atlanta Falcons / 1st / 26th pick / 2018
+25  WR          Cam Sims    2  2018-2019                                         NaN
+37  WR  ArDarius Stewart    1  2017-2017      New York Jets / 3rd / 79th pick / 2017
+45  WR      Amari Cooper    5  2015-2019     Oakland Raiders / 1st / 4th pick / 2015
+46  WR    DeAndrew White    3  2015-2019                                         NaN
+58  WR     Kevin Norwood    2  2014-2015  Seattle Seahawks / 4th / 123rd pick / 2014
+81  WR      Darius Hanks    1  2012-2012                                         NaN
+87  WR       Julio Jones    9  2011-2019     Atlanta Falcons / 1st / 6th pick / 2011
