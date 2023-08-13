@@ -9,7 +9,9 @@ global worksheet
 
 
 def createExcelWriter(name):
-    return pd.ExcelWriter('./results/' + name + '.xlsx', engine='xlsxwriter')
+    file_name = './results/' +name+ '.xlsx'
+    print("Creating file: " + file_name)
+    return pd.ExcelWriter(file_name, engine='xlsxwriter')
 
 def createExcelFile(name):
     workbook = excel.Workbook('./results/' + name + '.xlsx')
@@ -37,16 +39,6 @@ def insert_row_data(worksheet, row, year, total):
     worksheet.write(row, GS_COL, total['GS'])
     return worksheet
 
-# Sum cols
-def sum_col(worksheet):
-    worksheet['A14'] = 'TOTAL_WORTH'
-    worksheet['H14'] = '= SUM(A2:A12)'
-
-
-def workingTable(writer):
-    df = pd.DataFrame({'Data': ['Geeks', 'For', 'geeks', 'is',
-                            'portal', 'for', 'geeks']})
-    
-    df.to_excel(writer, sheet_name='SheetTest')
-
+def writeToTable(df, writer, sheetName):    
+    df.to_excel(writer, sheet_name=sheetName, startrow=2, startcol=0, header=True)
     writer.save()
